@@ -1,0 +1,1 @@
+web: java -jar target/daxueshengcycxin-0.0.1-SNAPSHOT.jar
